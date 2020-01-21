@@ -1,6 +1,7 @@
-# Código Creativo 2020-2 Tercer Semestre
 
 ![portada](https://github.com/EmilioOcelotl/centro2020-II-3/blob/master/img/noche01.png)
+
+# Código Creativo 2020-2 Tercer Semestre
 
 Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
@@ -19,6 +20,14 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 - Segundo parcial: participación 5% y ejercicio a entregar 20% - 28 de octubre al 4 de noviembre
 
 - Tercer parcial: participación 5% y ejercicio a entregar 10% 
+
+## Entregas parciales 
+
+- Primera entrega.
+
+- Segunda entrega.
+
+- Tercer entrega.
 
 ## Enlaces y lecturas sugeridas
 
