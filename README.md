@@ -3,7 +3,17 @@
 
 # Código Creativo 2020-2 Tercer Semestre
 
-Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
+## Objetivo del curso 
+
+Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
+
+## Salidas de aprendizaje
+
+- Analizar el uso del código creativo en proyectos profesionales donde la creatividad computacional
+es parte fundamental de su conceptualización.
+- Explicar conceptos elementales de programación orientada a objetos: clases, objetos, métodos, eventos.
+- Utilizar el código creativo en contextos de lenguaje visual, animación simple y manipulación
+de imágenes en movimiento.
 
 ## Sesiones
 
@@ -15,19 +25,19 @@ Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y 
 
 - Lecturas: Pendientes 10%
 
-- Primer parcial: participación 5% y ejercicio a entregar 20% - 17 al 23 de septiembre 
+- Primer parcial: participación 5% y ejercicio a entregar 20% 
 
-- Segundo parcial: participación 5% y ejercicio a entregar 20% - 28 de octubre al 4 de noviembre
+- Segundo parcial: participación 5% y ejercicio a entregar 20% 
 
 - Tercer parcial: participación 5% y ejercicio a entregar 10% 
 
 ## Entregas parciales 
 
-- Primera entrega.
+- Primera entrega. Fecha por definir. 
 
-- Segunda entrega.
+- Segunda entrega. Fecha por definir. 
 
-- Tercer entrega.
+- Tercer entrega. Fecha por definir. 
 
 ## Enlaces y lecturas sugeridas
 
