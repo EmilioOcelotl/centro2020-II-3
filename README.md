@@ -1,6 +1,6 @@
 # Código Creativo 2020-2 Tercer Semestre
 
-![portada](https://github.com/EmilioOcelotl/centro20-I_CC2/blob/master/img/noche01.png)
+![portada](https://github.com/EmilioOcelotl/centro2020-II-3/blob/master/img/noche01.png)
 
 Objetivo del curso: Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
